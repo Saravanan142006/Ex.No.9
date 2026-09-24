@@ -57,16 +57,6 @@ Tools/LLMs for Video Generation:
 A short video of bored college students sitting in a dull classroom, staring at the clock and daydreaming
 
 ## Video :
-
-
-
-
-https://github.com/user-attachments/assets/224dd63f-048f-4e92-befd-a5f6fff5c928
-
-
-
-
-
 This prompt was used  hailuoai.vide and Make-A-Video to observe basic animation, environment understanding, and subject motion.
 # Prompt :
 ## 2.Create a Detailed Prompt:
