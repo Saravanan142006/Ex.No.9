@@ -53,12 +53,13 @@ Tools/LLMs for Video Generation:
 # Prompt :
 ## 1.Create a Simple Prompt:
 #### A short and direct description to generate a basic scene.
-
-blob:https://flow.google.com/56eb50e9-ad84-4828-97f0-5f1b83828bb8
-
 A short video of bored college students sitting in a dull classroom, staring at the clock and daydreaming
 
 ## Video :
+
+
+https://github.com/user-attachments/assets/39a7f4ee-ca0b-4132-9d8b-1af16a1b4e39
+
 This prompt was used  hailuoai.vide and Make-A-Video to observe basic animation, environment understanding, and subject motion.
 # Prompt :
 ## 2.Create a Detailed Prompt:
@@ -68,8 +69,6 @@ A high-energy battle scene featuring multiple One Piece characters clashing for 
 – Style: vibrant anime style, dynamic poses, dramatic action lighting, highly detailed character expressions.
 
 ## Video :
-
-
 
 https://github.com/user-attachments/assets/00c5e763-a16a-41ef-b625-8cb85d853591
 
