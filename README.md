@@ -7,13 +7,13 @@ To demonstrate the ability of text-to-Video generation tools to reproduce an exi
 ## Procedure:
 1.	Analyze the Generated Video:
 ○	Examine the Video carefully, noting key elements such as:
-■	Objects/Subjects (e.g., people, animals, objects)
-■	Colors (e.g., dominant hues, contrasts)
-■	Textures (e.g., smooth, rough, glossy)
-■	Lighting (e.g., bright, dim, shadows)
-■	Background (e.g., outdoor, indoor, simple, detailed)
-■	Composition (e.g., focal points, perspective)
-■	Style (e.g., realistic, artistic, cartoonish)
+• Objects/Subjects (e.g., people, animals, objects)
+• Colors (e.g., dominant hues, contrasts)
+•	Textures (e.g., smooth, rough, glossy)
+•	Lighting (e.g., bright, dim, shadows)
+•	Background (e.g., outdoor, indoor, simple, detailed)
+•	Composition (e.g., focal points, perspective)
+•	Style (e.g., realistic, artistic, cartoonish)
 2.	Create the Basic Prompt:
 ○	Write an initial, simple description of the Video. For example, if the Video shows a landscape, the prompt could be "A serene landscape with mountains and a river."
 3.	Refine the Prompt with More Detail:
@@ -54,6 +54,8 @@ Tools/LLMs for Video Generation:
 ## 1.Create a Simple Prompt:
 #### A short and direct description to generate a basic scene.
 
+blob:https://flow.google.com/56eb50e9-ad84-4828-97f0-5f1b83828bb8
+
 A short video of bored college students sitting in a dull classroom, staring at the clock and daydreaming
 
 ## Video :
@@ -70,9 +72,6 @@ A high-energy battle scene featuring multiple One Piece characters clashing for 
 
 
 https://github.com/user-attachments/assets/00c5e763-a16a-41ef-b625-8cb85d853591
-
-
-
 
 This prompt was run in Imagen Video and Make-A-Video to assess how well the model handles detailed instructions and renders natural scenery with realistic motion.
 
